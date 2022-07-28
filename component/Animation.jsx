@@ -30,14 +30,13 @@ const Animation = () => {
       <div className="bg-danger vh-100 d-flex flex-column justify-content-center align-items-center">
         <h1 className="text-white fw-bold">one</h1>
       </div>
-
       <div className="position-relative">
         <div className="container ">
-          <div className="row">
+          <div className="row justify-content-between">
             <div className="col-6">
               <TextOne />
             </div>
-            <div className="col-6 d-flex flex-column justify-content-center target py-4 overflow-hidden">
+            <div className="col-5 d-flex flex-column justify-content-center target py-4 overflow-hidden">
               <div className="image_conatiner mx-auto overflow-hidden ">
                 <img className="w-100" src="/img/one.png" alt="one" />
                 <img className="w-100" src="/img/two.png" alt="one" />
@@ -47,19 +46,19 @@ const Animation = () => {
               </div>
             </div>
           </div>
-          <div className="row">
+          <div className="row section_2">
             <div className="col-6">
               <TextOne />
             </div>
             <div className="col-6 d-flex flex-column justify-content-center"></div>
           </div>
-          <div className="row">
+          <div className="row section_3">
             <div className="col-6">
               <TextOne />
             </div>
             <div className="col-6 d-flex flex-column justify-content-center"></div>
           </div>
-          <div className="row">
+          <div className="row section_4">
             <div className="col-6">
               <TextOne />
             </div>
