@@ -30,6 +30,17 @@ a {
   background-size: 100% 100%;
   min-width: 100%;
   border-radius: 7px;
-  max-height: 80vh;
-  padding-top: 20vh;
+  height: 80vh;
+  width: 300px;
+  padding: 0 20px;
+}
+.image_conatiner img {
+  position: absolute;
+  border-radius: 30px;
+}
+.team {
+  position: "absolute";
+  bottom: 5vh;
+  left: 50%;
+  transform: translateX(-50%);
 }
