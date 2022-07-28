@@ -2,19 +2,15 @@ import React from "react";
 
 const TextOne = () => {
   return (
-    <div className="vh-100 d-flex flex-column justify-content-center section_1">
-      <h3>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet ipsam
-        facilis voluptates, harum, quas ea ducimus dolor consequuntur minus
-        consectetur dignissimos animi quos id rem nemo incidunt natus, voluptas
-        itaque.
-      </h3>
-      <h3>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet ipsam
-        facilis voluptates, harum, quas ea ducimus dolor consequuntur minus
-        consectetur dignissimos animi quos id rem nemo incidunt natus, voluptas
-        itaque.
-      </h3>
+    <div className=" justify  ">
+      <img width={300} src="/img/12.png" alt="bg" />
+      <img width={300} src="/img/one.png" alt="bg" />
+      <img width={300} src="/img/two.png" alt="bg" />
+      <img width={300} src="/img/three.png" alt="bg" />
+      <img width={300} src="/img/four.png" alt="bg" />
+      <img width={300} src="/img/five.png" alt="bg" />
+      <img width={300} src="/img/bg.png" alt="bg" />
+      <img width={300} src="/img/bg.png" alt="bg" />
     </div>
   );
 };
