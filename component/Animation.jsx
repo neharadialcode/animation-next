@@ -17,6 +17,7 @@ const Animation = () => {
         pinSpacer: true,
       },
     });
+
     let second = gsap.timeline({
       scrollTrigger: {
         trigger: ".section_1",
@@ -140,10 +141,7 @@ const Animation = () => {
   }, []);
   return (
     <div className="overflow-hidden">
-      <div className="bg-danger vh-100 d-flex flex-column justify-content-center align-items-center">
-        <h1 className="text-white fw-bold">one</h1>
-      </div>
-      <div className="position-relative">
+      {/* <div className="position-relative">
         <div className="container ">
           <div className="row justify-content-between section_1">
             <div className="col-6">
@@ -203,7 +201,7 @@ const Animation = () => {
             <div className="col-6 d-flex flex-column justify-content-center"></div>
           </div>
         </div>
-      </div>
+      </div> */}
       <div className="bg-success vh-100 d-flex flex-column justify-content-center align-items-center">
         <h1 className="text-white fw-bold">one</h1>
       </div>

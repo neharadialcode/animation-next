@@ -44,3 +44,10 @@ a {
   left: 50%;
   transform: translateX(-50%);
 }
+/* .two_section {
+  position: absolute;
+  top: 0;
+  left: -100vw;
+  width: 100%;
+  z-index: 1;
+} */
