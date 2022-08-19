@@ -68,6 +68,11 @@ a {
   left: 200px;
   top: -100px;
 }
+.scale_img_three {
+  transform: scale(2);
+  left: -100px;
+  top: 100px;
+}
 .transition {
   transition: all 0.3s ease-in-out;
 }
@@ -83,8 +88,15 @@ a {
   left: 0;
   z-index: 1;
 }
+.btn_three {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  z-index: 1;
+}
 .text_1,
-.text_2 {
+.text_2,
+.text_3 {
   visibility: hidden;
   height: 0;
   width: 0;
@@ -92,6 +104,7 @@ a {
   z-index: -1;
 }
 .text_1_visible,
+.text_3_visible,
 .text_2_visible {
   visibility: visible;
   height: auto;
