@@ -2,6 +2,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Head from "next/head";
 import Animation from "../component/Animation";
 import NewAnimation from "../component/NewAnimation";
+import ZoomAnimation from "../component/ZoomAnimation";
 import styles from "../styles/Home.module.css";
 
 export default function Home() {
@@ -15,7 +16,8 @@ export default function Home() {
         </Head>
         {/* <TextOne /> */}
         {/* <Animation /> */}
-        <NewAnimation />
+        {/* <NewAnimation /> */}
+        <ZoomAnimation />
       </div>
     </>
   );
