@@ -1,10 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import Head from "next/head";
-import Animation from "../component/Animation";
-import New from "../component/New";
-import NewAnimation from "../component/NewAnimation";
 import CreativeTeam from "../component/CreativeTeam";
-import ZoomAnimation from "../component/ZoomAnimation";
 import styles from "../styles/Home.module.css";
 
 export default function Home() {

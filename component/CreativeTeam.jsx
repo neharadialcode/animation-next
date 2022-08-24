@@ -1,10 +1,4 @@
 import React, { useEffect } from "react";
-import Creative from "./Creative";
-import ProfessionalCard from "./ProfessionalCard";
-import LaunchWeeks from "./LaunchWeeks";
-import Card2 from "./Card2";
-import SuccessFullProjects from "./SuccessFullProjects";
-import Card3 from "./Card3";
 import Image from "next/image";
 import { gsap } from "gsap";
 import ScrollTrigger from "gsap/dist/ScrollTrigger";
@@ -298,103 +292,15 @@ const CreativeTeam = () => {
     <div className="overflow-hidden target-main" id="team">
       <div className="position-relative mt-5 pt-4 pt-xl-0">
         <div className="container container-modified">
-          <div className="row justify-content-center justify-content-xl-between section_1 mb-5 mb-xl-0">
-            <div className="col-sm-10 col-lg-9 col-xl-6 mt-5 mt-xl-0 order-2 order-xl-0">
-              <Creative />
+          <div className="row justify-content-center justify-content-xl-between  section_1 mb-5 mb-xl-0">
+            <div className="col-sm-10 col-lg-9 col-xl-6 mt-5 mt-xl-0 order-2 order-xl-0 vh-100 d-flex flex-column justify-content-center">
+              {/* <Creative /> */}
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste enim
+              velit et rerum numquam. Sit quisquam velit eum harum explicabo.
+              Temporibus tempore iste molestias aspernatur autem hic deleniti
+              magnam nobis.
             </div>
-            <div className="col-sm-10 col-lg-9 col-xl-6 position-relative d-flex d-xl-none flex-column justify-content-center overflow-hidden">
-              <div className="team-first team">
-                <div className="position-absolute team-img team-first-img ">
-                  <Image
-                    width={96}
-                    height={96}
-                    src="/assets/images/team/Pooja-jangra.png"
-                    alt="one"
-                  />
-                </div>
-                <div className="position-absolute team-img team-second-img  ">
-                  <Image
-                    width={96}
-                    height={96}
-                    src="/assets/images/team/Joginder-saini.png"
-                    alt="two"
-                  />
-                </div>
-                <div className="position-absolute team-img team-third-img ">
-                  <Image
-                    width={96}
-                    height={96}
-                    src="/assets/images/team/Muskan-saini.png"
-                    alt="three"
-                  />
-                </div>
-                <div className="position-absolute team-img team-fourth-img  ">
-                  <Image
-                    width={96}
-                    height={96}
-                    src="/assets/images/team/Ravi-sirswa.png"
-                    alt="four"
-                  />
-                </div>
-                <div className="position-absolute team-img team-fifth-img ">
-                  <Image
-                    width={96}
-                    height={96}
-                    src="/assets/images/team/Palvi-tiwari.png"
-                    alt="five"
-                  />
-                </div>
-                <div className="position-absolute team-img team-sixth-img  ">
-                  <Image
-                    width={96}
-                    height={96}
-                    src="/assets/images/team/Sharukh-khan.png"
-                    alt="six"
-                  />
-                </div>
-                <div className="position-absolute team-img team-seven-img  ">
-                  <Image
-                    width={96}
-                    height={96}
-                    src="/assets/images/team/Surekha-Swami.png"
-                    alt="six"
-                  />
-                </div>
-                <div className="position-absolute team-img team-eight-img  ">
-                  <Image
-                    width={96}
-                    height={96}
-                    src="/assets/images/team/Vikas-swami.png"
-                    alt="six"
-                  />
-                </div>
-                <div className="position-absolute team-img team-nine-img  ">
-                  <Image
-                    width={96}
-                    height={96}
-                    src="/assets/images/team/Sahil-rara.png"
-                    alt="six"
-                  />
-                </div>
-                <div className="position-absolute team-img team-ten-img  ">
-                  <Image
-                    width={96}
-                    height={96}
-                    src="/assets/images/team/Manish-sharma.png"
-                    alt="six"
-                  />
-                </div>
-                <div className="position-absolute team-img team-eleven-img  ">
-                  <Image
-                    width={96}
-                    height={96}
-                    src="/assets/images/team/Ashu-sirswa.png"
-                    alt="six"
-                  />
-                </div>
-              </div>
-            </div>
-            <div className="col-xl-6 d-none d-xl-flex flex-column justify-content-center target py-4 text-center">
+            <div className="col-xl-6  d-lg-flex flex-column justify-content-center target py-4 text-center">
               <div className="image_conatiner d-flex flex-column justify-content-center w-100 mx-auto overflow-hidden position-relative">
                 <div className="gradient_box w-100 h-100"></div>
                 <div className="icon_container w-100 h-100 position-absolute">
@@ -477,7 +383,7 @@ const CreativeTeam = () => {
                     <Image
                       width={96}
                       height={96}
-                      src="/assets/images/team/Pooja-jangra.png"
+                      src="/assets/images/team/pooja-jangra.png"
                       alt="one"
                     />
                   </div>
@@ -485,7 +391,7 @@ const CreativeTeam = () => {
                     <Image
                       width={96}
                       height={96}
-                      src="/assets/images/team/Joginder-saini.png"
+                      src="/assets/images/team/joginder-saini.png"
                       alt="two"
                     />
                   </div>
@@ -493,7 +399,7 @@ const CreativeTeam = () => {
                     <Image
                       width={96}
                       height={96}
-                      src="/assets/images/team/Muskan-saini.png"
+                      src="/assets/images/team/muskan-saini.png"
                       alt="three"
                     />
                   </div>
@@ -501,7 +407,7 @@ const CreativeTeam = () => {
                     <Image
                       width={96}
                       height={96}
-                      src="/assets/images/team/Ravi-sirswa.png"
+                      src="/assets/images/team/ravi-sirswa.png"
                       alt="four"
                     />
                   </div>
@@ -509,7 +415,7 @@ const CreativeTeam = () => {
                     <Image
                       width={96}
                       height={96}
-                      src="/assets/images/team/Palvi-tiwari.png"
+                      src="/assets/images/team/palvi-tiwari.png"
                       alt="five"
                     />
                   </div>
@@ -517,7 +423,7 @@ const CreativeTeam = () => {
                     <Image
                       width={96}
                       height={96}
-                      src="/assets/images/team/Sharukh-khan.png"
+                      src="/assets/images/team/sharukh-khan.png"
                       alt="six"
                     />
                   </div>
@@ -525,7 +431,7 @@ const CreativeTeam = () => {
                     <Image
                       width={96}
                       height={96}
-                      src="/assets/images/team/Surekha-Swami.png"
+                      src="/assets/images/team/surekha-Swami.png"
                       alt="six"
                     />
                   </div>
@@ -533,7 +439,7 @@ const CreativeTeam = () => {
                     <Image
                       width={96}
                       height={96}
-                      src="/assets/images/team/Vikas-swami.png"
+                      src="/assets/images/team/vikas-swami.png"
                       alt="six"
                     />
                   </div>
@@ -541,7 +447,7 @@ const CreativeTeam = () => {
                     <Image
                       width={96}
                       height={96}
-                      src="/assets/images/team/Sahil-rara.png"
+                      src="/assets/images/team/sahil-rara.png"
                       alt="six"
                     />
                   </div>
@@ -549,7 +455,7 @@ const CreativeTeam = () => {
                     <Image
                       width={96}
                       height={96}
-                      src="/assets/images/team/Manish-sharma.png"
+                      src="/assets/images/team/manish-sharma.png"
                       alt="six"
                     />
                   </div>
@@ -557,7 +463,7 @@ const CreativeTeam = () => {
                     <Image
                       width={96}
                       height={96}
-                      src="/assets/images/team/Ashu-sirswa.png"
+                      src="/assets/images/team/ashu-sirswa.png"
                       alt="six"
                     />
                   </div>
@@ -706,9 +612,13 @@ const CreativeTeam = () => {
               </div>
             </div>
           </div>
-          <div className="row justify-content-center justify-content-xl-between section_2 mb-5 mb-xl-0">
-            <div className="col-sm-10 col-lg-9 col-xl-6 mt-5 mt-xl-0 order-2 order-xl-0">
-              <ProfessionalCard />
+          <div className="row justify-content-center justify-content-xl-between  section_2 mb-5 mb-xl-0">
+            <div className="col-sm-10 col-lg-9 col-xl-6 mt-5 mt-xl-0 order-2 order-xl-0 vh-100 d-flex flex-column justify-content-center">
+              {/* <ProfessionalCard /> */}
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut
+              neque amet soluta minus magni, cupiditate vel totam, iure, ad
+              delectus doloribus nihil quo! Accusantium, recusandae sed maiores
+              eum ab architecto!
             </div>
             <div className="col-sm-10 col-lg-9 col-xl-6 d-flex d-xl-none flex-column justify-content-center">
               <div className="team_img_parent_2 position-relative zoom_img_hover">
@@ -813,9 +723,13 @@ const CreativeTeam = () => {
               </div>
             </div>
           </div>
-          <div className="row justify-content-center justify-content-xl-between section_3 mb-5 mb-xl-0">
-            <div className="col-sm-10 col-lg-9 col-xl-5 mt-5 mt-xl-0 order-2 order-xl-0">
-              <LaunchWeeks />
+          <div className="row justify-content-center justify-content-xl-between  section_3 mb-5 mb-xl-0">
+            <div className="col-sm-10 col-lg-9 col-xl-5 mt-5 mt-xl-0 order-2 order-xl-0 vh-100 d-flex flex-column justify-content-center">
+              {/* <LaunchWeeks /> */}
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam
+              repellendus accusantium aperiam. Iusto illo iste dolorem veniam!
+              Pariatur aliquam voluptatibus fuga cumque, accusantium nemo esse
+              voluptates molestiae architecto cupiditate consequuntur.
             </div>
             <div className="col-sm-10 col-lg-9 col-xl-6 d-flex d-xl-none flex-column justify-content-center">
               <div className="team_img_parent_3 position-relative zoom_img_hover">
@@ -920,9 +834,13 @@ const CreativeTeam = () => {
               </div>
             </div>
           </div>
-          <div className="row justify-content-center justify-content-xl-between section_4 mb-5 mb-xl-0">
-            <div className="col-sm-10 col-lg-9 col-xl-6 mt-5 mt-xl-0 order-2 order-xl-0">
-              <Card2 />
+          <div className="row justify-content-center justify-content-xl-between  section_4 mb-5 mb-xl-0">
+            <div className="col-sm-10 col-lg-9 col-xl-6 mt-5 mt-xl-0 order-2 order-xl-0 vh-100 d-flex flex-column justify-content-center">
+              {/* <Card2 /> */}
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              Dignissimos expedita itaque consectetur adipisci nihil ipsam
+              tempore deserunt totam minus! Nostrum officia iusto adipisci ab
+              cumque aspernatur nobis temporibus dolorem pariatur.
             </div>
             <div className="col-sm-10 col-lg-9 col-xl-6 d-flex d-xl-none flex-column justify-content-center">
               <div className="team_img_parent_4 position-relative zoom_img_hover">
@@ -1043,9 +961,13 @@ const CreativeTeam = () => {
               </div>
             </div>
           </div>
-          <div className="row justify-content-center justify-content-xl-between section_5 mb-5 mb-xl-0">
-            <div className="col-sm-10 col-lg-9 col-xl-5 mt-5 mt-xl-0 order-2 order-xl-0">
-              <SuccessFullProjects />
+          <div className="row justify-content-center justify-content-xl-between  section_5 mb-5 mb-xl-0">
+            <div className="col-sm-10 col-lg-9 col-xl-5 mt-5 mt-xl-0 order-2 order-xl-0 vh-100 d-flex flex-column justify-content-center">
+              {/* <SuccessFullProjects /> */}
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maiores,
+              quaerat. Ratione magnam non voluptas, dolorem earum quisquam!
+              Odit, quibusdam corporis tenetur veritatis, ratione neque numquam
+              facilis qui perferendis reiciendis aliquam!
             </div>
             <div className="col-sm-10 col-lg-9 col-xl-6 d-flex d-xl-none flex-column justify-content-center">
               <div className="team_img_parent_5 zoom_img_hover position-relative">
@@ -1150,119 +1072,13 @@ const CreativeTeam = () => {
               </div>
             </div>
           </div>
-          <div className="row justify-content-center justify-content-xl-between section_6 mb-5 mb-xl-0">
-            <div className="col-sm-10 col-lg-9 col-xl-6 mt-5 mt-xl-0 order-2 order-xl-0">
-              <Card3 />
-            </div>
-            <div className="col-sm-10 col-lg-9 col-xl-6 d-flex  d-xl-none flex-column justify-content-center">
-              <div className="team_img_parent_6 zoom_img_hover position-relative">
-                <div className="icon_container_small w-100 h-100 position-absolute top-0 start-0">
-                  <div className="icon1">
-                    <Image
-                      width={60}
-                      height={60}
-                      src="/assets/images/homepageAnimation/icon1.png"
-                      alt="one"
-                    />
-                  </div>
-                  <div className="icon2">
-                    <Image
-                      width={60}
-                      height={60}
-                      src="/assets/images/homepageAnimation/react.png"
-                      alt="one"
-                    />
-                  </div>
-                  <div className="icon3">
-                    <Image
-                      width={60}
-                      height={60}
-                      src="/assets/images/homepageAnimation/node.png"
-                      alt="one"
-                    />
-                  </div>
-                  <div className="icon4">
-                    <Image
-                      width={60}
-                      height={60}
-                      src="/assets/images/homepageAnimation/next.png"
-                      alt="one"
-                    />
-                  </div>
-                  <div className="icon5">
-                    <Image
-                      width={60}
-                      height={60}
-                      src="/assets/images/homepageAnimation/angular.png"
-                      alt="one"
-                    />
-                  </div>
-                  <div className="icon6">
-                    <Image
-                      width={60}
-                      height={60}
-                      src="/assets/images/homepageAnimation/aws.png"
-                      alt="one"
-                    />
-                  </div>
-                  <div className="icon7">
-                    <Image
-                      width={60}
-                      height={60}
-                      src="/assets/images/homepageAnimation/bootstrap.png"
-                      alt="one"
-                    />
-                  </div>
-                  <div className="icon8">
-                    <Image
-                      width={60}
-                      height={60}
-                      src="/assets/images/homepageAnimation/gsap.png"
-                      alt="one"
-                    />
-                  </div>
-                  <div className="icon9">
-                    <Image
-                      width={60}
-                      height={60}
-                      src="/assets/images/homepageAnimation/figma.png"
-                      alt="one"
-                    />
-                  </div>
-                </div>
-                <div className="position-absolute man-icon z-5">
-                  <Image
-                    width={80}
-                    height={80}
-                    src="/assets/images/homepageAnimation/gsap.png"
-                    alt="one"
-                  />
-                </div>
-                <div className="position-absolute figma z-5">
-                  <Image
-                    width={80}
-                    height={80}
-                    src="/assets/images/homepageAnimation/figma.png"
-                    alt="one"
-                  />
-                </div>
-                <div className="position-absolute next-js z-5">
-                  <Image
-                    width={80}
-                    height={80}
-                    src="/assets/images/homepageAnimation/next.png"
-                    alt="one"
-                  />
-                </div>
-                <Image
-                  className="img_five br-8 team_img"
-                  src="/assets/images/creativeTeam/five.png"
-                  alt="five"
-                  height={387}
-                  width={576}
-                  layout="responsive"
-                />
-              </div>
+          <div className="row justify-content-center justify-content-xl-between  section_6 mb-5 mb-xl-0">
+            <div className="col-sm-10 col-lg-9 col-xl-6 mt-5 mt-xl-0 order-2 order-xl-0 vh-100 d-flex flex-column justify-content-center">
+              {/* <Card3 /> */}
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci
+              dolor eos accusantium assumenda possimus quasi cupiditate tenetur
+              odio porro, sit corporis itaque explicabo in aut, hic recusandae
+              aliquid deserunt temporibus!
             </div>
           </div>
         </div>
