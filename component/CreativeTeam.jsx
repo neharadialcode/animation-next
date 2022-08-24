@@ -308,7 +308,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/icon1.png"
+                      src="/img/icon1.png"
                       alt="one"
                     />
                   </div>
@@ -316,7 +316,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/react.png"
+                      src="/img/react.png"
                       alt="one"
                     />
                   </div>
@@ -324,7 +324,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/node.png"
+                      src="/img/node.png"
                       alt="nodejs"
                     />
                   </div>
@@ -332,7 +332,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/next.png"
+                      src="/img/next.png"
                       alt="nextjs"
                     />
                   </div>
@@ -340,7 +340,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/angular.png"
+                      src="/img/angular.png"
                       alt="angular"
                     />
                   </div>
@@ -348,7 +348,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/aws.png"
+                      src="/img/aws.png"
                       alt="aws"
                     />
                   </div>
@@ -356,7 +356,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/bootstrap.png"
+                      src="/img/bootstrap.png"
                       alt="bootstrap"
                     />
                   </div>
@@ -364,7 +364,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/gsap.png"
+                      src="/img/gsap.png"
                       alt="gsap"
                     />
                   </div>
@@ -372,7 +372,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/figma.png"
+                      src="/img/figma.png"
                       alt="figma"
                     />
                   </div>
@@ -474,21 +474,21 @@ const CreativeTeam = () => {
                     <Image
                       width={80}
                       height={80}
-                      src="/assets/images/homepageAnimation/figma.png"
+                      src="/img/figma.png"
                       alt="figma"
                     />
                   </div>
                   <Image
                     width={600}
                     height={410}
-                    src="/assets/images/homepageAnimation/img2.png"
+                    src="/img/img2.png"
                     alt="one"
                   />
                   <div className="react_img imgg img33">
                     <Image
                       width={80}
                       height={80}
-                      src="/assets/images/homepageAnimation/react.png"
+                      src="/img/react.png"
                       alt="react"
                     />
                   </div>
@@ -499,14 +499,14 @@ const CreativeTeam = () => {
                     <Image
                       width={80}
                       height={80}
-                      src="/assets/images/homepageAnimation/figma.png"
+                      src="/img/figma.png"
                       alt="figma"
                     />
                   </div>
                   <Image
                     width={600}
                     height={420}
-                    src="/assets/images/homepageAnimation/img1.png"
+                    src="/img/img1.png"
                     alt="one"
                   />
                 </div>
@@ -516,7 +516,7 @@ const CreativeTeam = () => {
                     <Image
                       width={80}
                       height={80}
-                      src="/assets/images/homepageAnimation/node.png"
+                      src="/img/node.png"
                       alt="one"
                     />
                   </div>
@@ -524,7 +524,7 @@ const CreativeTeam = () => {
                     <Image
                       width={80}
                       height={80}
-                      src="/assets/images/homepageAnimation/aws.png"
+                      src="/img/aws.png"
                       alt="aws"
                     />
                   </div>
@@ -532,7 +532,7 @@ const CreativeTeam = () => {
                     <Image
                       width={80}
                       height={80}
-                      src="/assets/images/homepageAnimation/figma.png"
+                      src="/img/figma.png"
                       alt="figma"
                     />
                   </div>
@@ -540,14 +540,14 @@ const CreativeTeam = () => {
                     <Image
                       width={80}
                       height={80}
-                      src="/assets/images/homepageAnimation/react.png"
+                      src="/img/react.png"
                       alt="react"
                     />
                   </div>
                   <Image
                     width={600}
                     height={420}
-                    src="/assets/images/homepageAnimation/img4.png"
+                    src="/img/img4.png"
                     alt="one"
                   />
                 </div>
@@ -557,21 +557,21 @@ const CreativeTeam = () => {
                     <Image
                       width={80}
                       height={80}
-                      src="/assets/images/homepageAnimation/firebase.png"
+                      src="/img/firebase.png"
                       alt="one"
                     />
                   </div>
                   <Image
                     width={600}
                     height={400}
-                    src="/assets/images/homepageAnimation/img3.png"
+                    src="/img/img3.png"
                     alt="one"
                   />
                   <div className="react_img imgg img55">
                     <Image
                       width={80}
                       height={80}
-                      src="/assets/images/homepageAnimation/tech.png"
+                      src="/img/tech.png"
                       alt="one"
                     />
                   </div>
@@ -581,14 +581,14 @@ const CreativeTeam = () => {
                   <Image
                     width={600}
                     height={420}
-                    src="/assets/images/homepageAnimation/img6.png"
+                    src="/img/img6.png"
                     alt="one"
                   />
                   <div className="figma_img2 imgg img10 position-absolute end-0">
                     <Image
                       width={80}
                       height={80}
-                      src="/assets/images/homepageAnimation/figma.png"
+                      src="/img/figma.png"
                       alt="one"
                     />
                   </div>
@@ -596,7 +596,7 @@ const CreativeTeam = () => {
                     <Image
                       width={80}
                       height={80}
-                      src="/assets/images/homepageAnimation/gsap.png"
+                      src="/img/gsap.png"
                       alt="one"
                     />
                   </div>
@@ -604,7 +604,7 @@ const CreativeTeam = () => {
                     <Image
                       width={80}
                       height={80}
-                      src="/assets/images/homepageAnimation/next.png"
+                      src="/img/next.png"
                       alt="one"
                     />
                   </div>
@@ -627,7 +627,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/icon1.png"
+                      src="/img/icon1.png"
                       alt="one"
                     />
                   </div>
@@ -635,7 +635,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/react.png"
+                      src="/img/react.png"
                       alt="react"
                     />
                   </div>
@@ -643,7 +643,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/node.png"
+                      src="/img/node.png"
                       alt="node"
                     />
                   </div>
@@ -651,7 +651,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/next.png"
+                      src="/img/next.png"
                       alt="next"
                     />
                   </div>
@@ -659,7 +659,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/angular.png"
+                      src="/img/angular.png"
                       alt="angular"
                     />
                   </div>
@@ -667,7 +667,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/aws.png"
+                      src="/img/aws.png"
                       alt="aws"
                     />
                   </div>
@@ -675,7 +675,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/bootstrap.png"
+                      src="/img/bootstrap.png"
                       alt="bootstrap"
                     />
                   </div>
@@ -683,7 +683,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/gsap.png"
+                      src="/img/gsap.png"
                       alt="gsap"
                     />
                   </div>
@@ -691,7 +691,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/figma.png"
+                      src="/img/figma.png"
                       alt="figma"
                     />
                   </div>
@@ -700,7 +700,7 @@ const CreativeTeam = () => {
                   <Image
                     width={80}
                     height={80}
-                    src="/assets/images/homepageAnimation/figma.png"
+                    src="/img/figma.png"
                     alt="figma"
                   />
                 </div>
@@ -708,7 +708,7 @@ const CreativeTeam = () => {
                   <Image
                     width={80}
                     height={80}
-                    src="/assets/images/homepageAnimation/react.png"
+                    src="/img/react.png"
                     alt="react"
                   />
                 </div>
@@ -738,7 +738,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/icon1.png"
+                      src="/img/icon1.png"
                       alt="one"
                     />
                   </div>
@@ -746,7 +746,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/react.png"
+                      src="/img/react.png"
                       alt="one"
                     />
                   </div>
@@ -754,7 +754,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/node.png"
+                      src="/img/node.png"
                       alt="one"
                     />
                   </div>
@@ -762,7 +762,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/next.png"
+                      src="/img/next.png"
                       alt="one"
                     />
                   </div>
@@ -770,7 +770,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/angular.png"
+                      src="/img/angular.png"
                       alt="one"
                     />
                   </div>
@@ -778,7 +778,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/aws.png"
+                      src="/img/aws.png"
                       alt="one"
                     />
                   </div>
@@ -786,7 +786,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/bootstrap.png"
+                      src="/img/bootstrap.png"
                       alt="one"
                     />
                   </div>
@@ -794,7 +794,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/gsap.png"
+                      src="/img/gsap.png"
                       alt="one"
                     />
                   </div>
@@ -802,24 +802,19 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/figma.png"
+                      src="/img/figma.png"
                       alt="one"
                     />
                   </div>
                 </div>
                 <div className="position-absolute tech z-5">
-                  <Image
-                    width={80}
-                    height={80}
-                    src="/assets/images/homepageAnimation/tech.png"
-                    alt="one"
-                  />
+                  <Image width={80} height={80} src="/img/tech.png" alt="one" />
                 </div>
                 <div className="firebase position-absolute z-5">
                   <Image
                     width={80}
                     height={80}
-                    src="/assets/images/homepageAnimation/firebase.png"
+                    src="/img/firebase.png"
                     alt="one"
                   />
                 </div>
@@ -849,7 +844,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/icon1.png"
+                      src="/img/icon1.png"
                       alt="one"
                     />
                   </div>
@@ -857,7 +852,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/react.png"
+                      src="/img/react.png"
                       alt="one"
                     />
                   </div>
@@ -865,7 +860,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/node.png"
+                      src="/img/node.png"
                       alt="one"
                     />
                   </div>
@@ -873,7 +868,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/next.png"
+                      src="/img/next.png"
                       alt="one"
                     />
                   </div>
@@ -881,7 +876,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/angular.png"
+                      src="/img/angular.png"
                       alt="one"
                     />
                   </div>
@@ -889,7 +884,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/aws.png"
+                      src="/img/aws.png"
                       alt="one"
                     />
                   </div>
@@ -897,7 +892,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/bootstrap.png"
+                      src="/img/bootstrap.png"
                       alt="one"
                     />
                   </div>
@@ -905,7 +900,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/gsap.png"
+                      src="/img/gsap.png"
                       alt="one"
                     />
                   </div>
@@ -913,40 +908,30 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/figma.png"
+                      src="/img/figma.png"
                       alt="one"
                     />
                   </div>
                 </div>
                 <div className="position-absolute aws z-5">
-                  <Image
-                    width={80}
-                    height={80}
-                    src="/assets/images/homepageAnimation/aws.png"
-                    alt="one"
-                  />
+                  <Image width={80} height={80} src="/img/aws.png" alt="one" />
                 </div>
                 <div className="position-absolute figma z-5">
                   <Image
                     width={80}
                     height={80}
-                    src="/assets/images/homepageAnimation/figma.png"
+                    src="/img/figma.png"
                     alt="one"
                   />
                 </div>
                 <div className="position-absolute node-js z-5">
-                  <Image
-                    width={80}
-                    height={80}
-                    src="/assets/images/homepageAnimation/node.png"
-                    alt="one"
-                  />
+                  <Image width={80} height={80} src="/img/node.png" alt="one" />
                 </div>
                 <div className="position-absolute react z-5">
                   <Image
                     width={80}
                     height={80}
-                    src="/assets/images/homepageAnimation/react.png"
+                    src="/img/react.png"
                     alt="one"
                   />
                 </div>
@@ -976,7 +961,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/icon1.png"
+                      src="/img/icon1.png"
                       alt="one"
                     />
                   </div>
@@ -984,7 +969,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/react.png"
+                      src="/img/react.png"
                       alt="one"
                     />
                   </div>
@@ -992,7 +977,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/node.png"
+                      src="/img/node.png"
                       alt="one"
                     />
                   </div>
@@ -1000,7 +985,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/next.png"
+                      src="/img/next.png"
                       alt="one"
                     />
                   </div>
@@ -1008,7 +993,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/angular.png"
+                      src="/img/angular.png"
                       alt="one"
                     />
                   </div>
@@ -1016,7 +1001,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/aws.png"
+                      src="/img/aws.png"
                       alt="one"
                     />
                   </div>
@@ -1024,7 +1009,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/bootstrap.png"
+                      src="/img/bootstrap.png"
                       alt="one"
                     />
                   </div>
@@ -1032,7 +1017,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/gsap.png"
+                      src="/img/gsap.png"
                       alt="one"
                     />
                   </div>
@@ -1040,7 +1025,7 @@ const CreativeTeam = () => {
                     <Image
                       width={60}
                       height={60}
-                      src="/assets/images/homepageAnimation/figma.png"
+                      src="/img/figma.png"
                       alt="one"
                     />
                   </div>
@@ -1049,7 +1034,7 @@ const CreativeTeam = () => {
                   <Image
                     width={80}
                     height={80}
-                    src="/assets/images/homepageAnimation/figma.png"
+                    src="/img/figma.png"
                     alt="one"
                   />
                 </div>
@@ -1057,13 +1042,13 @@ const CreativeTeam = () => {
                   <Image
                     width={80}
                     height={80}
-                    src="/assets/images/homepageAnimation/wordpress.png"
+                    src="/img/wordpress.png"
                     alt="one"
                   />
                 </div>
                 <Image
                   className="img_four br-8 team_img"
-                  src="/assets/images/homepageAnimation/img5.png"
+                  src="/img/img5.png"
                   alt="four"
                   height={387}
                   width={576}
