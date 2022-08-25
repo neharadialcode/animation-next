@@ -119,3 +119,6 @@ a {
   opacity: 1;
   z-index: 1;
 }
+.position_absolute {
+  position: absolute;
+}
