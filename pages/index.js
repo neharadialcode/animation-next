@@ -1,6 +1,8 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import Head from "next/head";
 import CreativeTeam from "../component/CreativeTeam";
+import ZoomAnimation from "../component/ZoomAnimation";
+import Animation from "../component/Animation";
 import styles from "../styles/Home.module.css";
 
 export default function Home() {
@@ -13,11 +15,11 @@ export default function Home() {
           <link rel="icon" href="/favicon.ico" />
         </Head>
         {/* <TextOne /> */}
-        {/* <Animation /> */}
+        <Animation />
         {/* <NewAnimation /> */}
         {/* <ZoomAnimation /> */}
         {/* <New /> */}
-        <CreativeTeam />
+        {/* <CreativeTeam /> */}
       </div>
     </>
   );
